@@ -4,6 +4,7 @@
 2. git status 查看提交状态
 3. git commit -m "修改的信息" 提交到本地仓库
 4. git push 提交到远程仓库
+5. git pull 拉去远程仓库内容
 
 ### git关联远程仓库
 
