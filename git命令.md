@@ -7,7 +7,9 @@
 5. git push 提交到远程仓库
 6. git push与git pull是一对推送/拉取分支的git命令。 
 7. git rm ss.c(删除文件)
-
+8. git commit -m "修改的信息" 提交到本地仓库
+9. git push 提交到远程仓库
+10. git pull 拉取远程仓库内容
 ### git关联远程仓库
 
 1. 从远程克隆一份到本地可以通过
